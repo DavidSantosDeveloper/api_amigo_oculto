@@ -1,5 +1,3 @@
-## API-G|F Natal
-Dupla: Francisco David e Lívia
 
 ### *REQUISITOS:*
 ### A aplicação tem:
